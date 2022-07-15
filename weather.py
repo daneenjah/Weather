@@ -6,7 +6,7 @@
 # (10 minutes or so) to provide a proper indication. The script can easily
 # be split into two smaller scripts for a taskbar, etc.
 # Can also add functionality for anything recorded in clientraw fairly easily.
-# This was my second python project, mirroring a bash script I use for my 
+# This was my second python project, mirroring a bash script I use for my
 # status bar on my desktop machine. Enjoy!
 
 import requests
